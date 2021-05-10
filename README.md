@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lennygir
-- 👀 I’m interested in sports (snowboard, roadbiking, bodybuilding...)
-- 🌱 I’m currently learning how to use formio......
-- 💞️ I’m looking to collaborate on any other project
+- 👀 I’m interested in sports (snowboard, roadbiking, bodybuilding...) and, OF COURSE, IT, programming...
+- 🌱 I’m currently learning how to be a good developper
+- 💞️ I’m looking to collaborate on any project that requires a work-study
 - 📫 How to reach me : linkedin (lenny girardot)
 
 <!---
