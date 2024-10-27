@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lennygir
-- 👀 I’m interested in sports (snowboard, roadbiking, bodybuilding...) and, OF COURSE, IT, programming...
-- 🌱 I’m currently learning how to be a good developper
-- 📫 How to reach me : linkedin (lenny girardot)
+- 👀 I’m interested in sports (snowboard, roadbiking, bodybuilding...), volonteering, IT, programming, automation...
+- 🌱 I’m currently learning new stuff (can't say which ones because they are probably too many)
+- 📫 How to reach me : linkedin (lenny girardot), I'm currently interested for international opportunies
 
 <!---
 lennygir/lennygir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
